@@ -3,10 +3,6 @@
 
 ## 使用
 
-```
-git clone https://github.com/aszx87410/line-bot.git
-```
-
 把 `config.js` 裡面的三個 key 換成自己的
 
 再來先裝必要的套件
